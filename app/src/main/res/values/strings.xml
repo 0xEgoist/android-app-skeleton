@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Template</string>
+    <string name="next_screen_btn">Next screen</string>
+    <string name="error">Something went wrong</string>
+</resources>
